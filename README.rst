@@ -2,7 +2,7 @@ Selinon
 =======
 
 An advanced task flow management on top of
-`Celery <https://www.celeryproject.org/>`__.
+`Celery <http://www.celeryproject.org/>`__.
 
 |codecov| |PyPI Current Version| |PyPI Implementation| |PyPI Wheel|
 |Travis CI| |Documentation Status| |GitHub stars| |GitHub license|
